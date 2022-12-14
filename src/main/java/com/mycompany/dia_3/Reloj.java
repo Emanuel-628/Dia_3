@@ -109,4 +109,7 @@ public class Reloj {
         Reloj dif = new Reloj (haux,maux,saux);
         return dif;
     }
+    public void Pruebafork(){
+        System.out.println("Esto es una prueba de si anda el fork en git");
+    }
 }
